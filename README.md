@@ -21,8 +21,8 @@ A collection of Python-based projects focusing on machine learning, data visuali
 ## ⚙️ Tools & Technologies
 
 - Python 3.x
-- Jupyter / PyCharm
-- Scikit-learn, XGBoost
+- Jupyter / IDLE
+- Scikit-learn
 - Tkinter, MySQL
 - Matplotlib, Seaborn
 
